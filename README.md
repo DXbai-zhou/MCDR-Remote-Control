@@ -10,6 +10,8 @@ Finally you can control your server remotely.
 You can input the word 'op DXbai_zhou',then player DXbai_zhou will get permission.
 But if you close the client directly,the plugin won't work.Then you should reload this plugin to make it work again.So if you want to close the client,you'd better input 'exit' in client.
 
+The default port is '12212'
+
 这是一个可以远程控制服务端的MCDR插件。
 首先下载这两个Python文件——Remote-Control-Server.py和Remote-Control-Client.py。
 然后把Remote-Control-Server.py放进plugins文件夹里。
@@ -17,5 +19,8 @@ But if you close the client directly,the plugin won't work.Then you should reloa
 在那之后，把Remote-Control-Client.py放在你的电脑上，并且运行它。
 在输入ip和端口后你可以连接到服务器。
 最后你可以远程控制你的服务器了。
+
 你可以输入指令"op DXbai_zhou"，然后玩家DXbai_zhou就会得到op权限。
 如果你直接关闭客户端，插件将停止工作，为了让插件重新工作，你需要重载这个插件。所以当你想要关闭客户端时，你最好在客户端输入“exit”来断开连接。
+
+默认端口为12212
